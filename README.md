@@ -1,4 +1,4 @@
-# ACV-S23-Project1
+# ACV-S23-Project1 - Detection and Counting of Ships from SAR Satellite Imagery 
 Individual project for Applied Computer Vision done in Columbia University for Spring 2023.
 
 # Setting up
